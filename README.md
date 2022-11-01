@@ -17,4 +17,6 @@ Demo Login
 ```bash
 email: admin@workspaceit.com
 password: 12345678
+
+Note: valid email and 8 digit password required
 ```
