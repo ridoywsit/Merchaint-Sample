@@ -12,3 +12,9 @@ After that to run the project use
 ```bash
 pnpm run dev
 ```
+
+Demo Login
+```bash
+email: admin@workspaceit.com
+password: 12345678
+```
